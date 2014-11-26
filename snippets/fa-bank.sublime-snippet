@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-bank" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-bank</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-bank</description>
+</snippet>

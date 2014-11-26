@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-sign-out" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-sign-out</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-sign-out</description>
+</snippet>

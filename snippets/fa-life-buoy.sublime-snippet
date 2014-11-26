@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-life-buoy" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-life-buoy</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-life-buoy</description>
+</snippet>

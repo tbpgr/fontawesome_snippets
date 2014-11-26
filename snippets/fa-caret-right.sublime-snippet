@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-caret-right" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-caret-right</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-caret-right</description>
+</snippet>

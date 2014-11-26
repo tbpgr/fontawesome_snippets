@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-paper-plane" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-paper-plane</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-paper-plane</description>
+</snippet>

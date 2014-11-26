@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-wrench" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-wrench</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-wrench</description>
+</snippet>

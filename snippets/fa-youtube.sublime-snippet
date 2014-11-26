@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-youtube" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-youtube</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-youtube</description>
+</snippet>

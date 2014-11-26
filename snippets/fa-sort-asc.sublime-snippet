@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-sort-asc" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-sort-asc</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-sort-asc</description>
+</snippet>

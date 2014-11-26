@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-underline" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-underline</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-underline</description>
+</snippet>

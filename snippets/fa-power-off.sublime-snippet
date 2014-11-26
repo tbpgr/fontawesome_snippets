@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-power-off" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-power-off</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-power-off</description>
+</snippet>

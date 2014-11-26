@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-eraser" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-eraser</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-eraser</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-heart-o" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-heart-o</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-heart-o</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-google-plus" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-google-plus</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-google-plus</description>
+</snippet>

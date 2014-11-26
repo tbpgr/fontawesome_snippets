@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-align-center" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-align-center</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-align-center</description>
+</snippet>

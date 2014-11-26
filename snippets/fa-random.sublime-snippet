@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-random" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-random</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-random</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-stumbleupon" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-stumbleupon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-stumbleupon</description>
+</snippet>

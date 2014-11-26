@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-flag-checkered" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-flag-checkered</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-flag-checkered</description>
+</snippet>

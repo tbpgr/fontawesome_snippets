@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-umbrella" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-umbrella</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-umbrella</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-share-alt-square" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-share-alt-square</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-share-alt-square</description>
+</snippet>

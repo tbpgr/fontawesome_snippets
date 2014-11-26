@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-cloud-upload" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-cloud-upload</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-cloud-upload</description>
+</snippet>

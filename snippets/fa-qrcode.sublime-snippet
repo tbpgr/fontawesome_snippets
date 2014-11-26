@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-qrcode" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-qrcode</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-qrcode</description>
+</snippet>

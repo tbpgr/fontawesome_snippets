@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-question-circle" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-question-circle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-question-circle</description>
+</snippet>

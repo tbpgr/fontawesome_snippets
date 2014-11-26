@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-lemon-o" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-lemon-o</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-lemon-o</description>
+</snippet>

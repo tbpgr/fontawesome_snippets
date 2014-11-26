@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-flickr" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-flickr</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-flickr</description>
+</snippet>

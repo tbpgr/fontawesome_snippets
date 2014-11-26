@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-fax" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-fax</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-fax</description>
+</snippet>

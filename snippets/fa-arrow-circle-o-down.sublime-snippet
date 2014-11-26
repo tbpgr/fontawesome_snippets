@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-arrow-circle-o-down" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-arrow-circle-o-down</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-arrow-circle-o-down</description>
+</snippet>

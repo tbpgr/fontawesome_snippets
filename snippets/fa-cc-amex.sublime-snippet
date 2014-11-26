@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-cc-amex" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-cc-amex</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-cc-amex</description>
+</snippet>

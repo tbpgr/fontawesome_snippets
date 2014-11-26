@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-check-square" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-check-square</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-check-square</description>
+</snippet>

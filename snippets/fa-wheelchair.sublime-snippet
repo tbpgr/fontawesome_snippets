@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-wheelchair" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-wheelchair</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-wheelchair</description>
+</snippet>

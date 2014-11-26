@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-vimeo-square" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-vimeo-square</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-vimeo-square</description>
+</snippet>

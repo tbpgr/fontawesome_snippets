@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-outdent" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-outdent</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-outdent</description>
+</snippet>

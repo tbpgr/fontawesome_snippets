@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-info-circle" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-info-circle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-info-circle</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-paste" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-paste</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-paste</description>
+</snippet>

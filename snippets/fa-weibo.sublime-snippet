@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-weibo" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-weibo</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-weibo</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-life-ring" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-life-ring</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-life-ring</description>
+</snippet>

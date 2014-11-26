@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-mail-forward" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-mail-forward</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-mail-forward</description>
+</snippet>

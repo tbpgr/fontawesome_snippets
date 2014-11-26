@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-soundcloud" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-soundcloud</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-soundcloud</description>
+</snippet>

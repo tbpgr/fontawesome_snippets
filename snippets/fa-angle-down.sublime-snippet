@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-angle-down" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-angle-down</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-angle-down</description>
+</snippet>

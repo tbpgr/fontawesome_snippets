@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-map-marker" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-map-marker</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-map-marker</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-minus-circle" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-minus-circle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-minus-circle</description>
+</snippet>
