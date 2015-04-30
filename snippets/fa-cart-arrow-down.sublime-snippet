@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-cart-arrow-down" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-cart-arrow-down</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-cart-arrow-down</description>
+</snippet>

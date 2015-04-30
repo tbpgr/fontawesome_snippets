@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-venus-mars" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-venus-mars</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-venus-mars</description>
+</snippet>

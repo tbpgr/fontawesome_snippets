@@ -17,4 +17,4 @@ $ ruby fontawesome_snippet_generator.rb
 * Copy all snippets into %SublimeText%Packages/User folder.
 
 ## Samples HTML
-* [Samples HTML](http://bl.ocks.org/tbpgr/ff3ab7ca171f523f08bf)
+* [Samples HTML](http://bl.ocks.org/tbpgr/2168c192563f81f8d33f)

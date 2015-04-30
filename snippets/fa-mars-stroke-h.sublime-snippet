@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-mars-stroke-h" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-mars-stroke-h</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-mars-stroke-h</description>
+</snippet>

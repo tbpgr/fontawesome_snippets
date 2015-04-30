@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-transgender-alt" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-transgender-alt</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-transgender-alt</description>
+</snippet>
