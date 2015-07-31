@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-hourglass-o" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-hourglass-o</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-hourglass-o</description>
+</snippet>

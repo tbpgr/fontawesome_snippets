@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-wikipedia-w" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-wikipedia-w</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-wikipedia-w</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-firefox" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-firefox</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-firefox</description>
+</snippet>

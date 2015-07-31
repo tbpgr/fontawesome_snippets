@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-calendar-minus-o" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-calendar-minus-o</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-calendar-minus-o</description>
+</snippet>

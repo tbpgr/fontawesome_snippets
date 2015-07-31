@@ -34,7 +34,7 @@ module FontAwesome
   <meta charset="UTF-8">
   <title>Font Awesome Samples</title>
   <link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
   <style type="text/css">
   body {
     font-family: Crete Round, Arial, serif;

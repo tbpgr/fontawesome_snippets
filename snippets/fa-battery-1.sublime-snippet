@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-battery-1" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-battery-1</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-battery-1</description>
+</snippet>

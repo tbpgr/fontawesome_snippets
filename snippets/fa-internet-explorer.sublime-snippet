@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-internet-explorer" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-internet-explorer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-internet-explorer</description>
+</snippet>

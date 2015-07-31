@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-contao" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-contao</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-contao</description>
+</snippet>
