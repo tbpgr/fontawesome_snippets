@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-first-order" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-first-order</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-first-order</description>
+</snippet>

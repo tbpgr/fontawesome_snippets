@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-asl-interpreting" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-asl-interpreting</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-asl-interpreting</description>
+</snippet>

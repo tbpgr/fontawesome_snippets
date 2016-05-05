@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-pause-circle-o" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-pause-circle-o</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-pause-circle-o</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<i class="fa fa-american-sign-language-interpreting" style="font-size:1em;"></i>
+]]></content>
+  <tabTrigger>fa-american-sign-language-interpreting</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>fontawesome fa fa-american-sign-language-interpreting</description>
+</snippet>
